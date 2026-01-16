@@ -5,7 +5,7 @@ I build and maintain small, deliberate systems.
 Most of my work focuses on Linux-based workflows, documentation-driven projects,
 and tools that behave predictably and are easy to reason about.
 
-* Values
+* VALUES
 
 #+BEGIN_SRC conf
 USABILITY        =  Ease of use, without deep technical knowledge
@@ -15,30 +15,19 @@ MAINTAINABILITY  =  Comprehensive planning and strong foundation
 VISUAL           =  Working well technically AND visually
 #+END_SRC
 
-* Projects
+* PROJECTS
 
-** [[https://growing.wiki][Growing Wiki]]
++ *[[https://growing.wiki][Growing Wiki]]* ( [[https://github.com/buttergrillcorn/dotfiles][repository]] ) - Wiki-style site exploring atomic documentation, inspired by Zettelkasten.
++ *Dotfiles* ( [[https://github.com/buttergrillcorn/growing-wiki][repository]] ) - Version-controlled literate Linux system configuration using Emacs ( Org Mode ) and Stow. =WIP(re-work)=
 
-Wiki-style site exploring atomic documentation, inspired by Zettelkasten.
-
-[[https://github.com/buttergrillcorn/growing-wiki][Repository]]
-
-** Dotfiles
-
-=WIP (Undergoing a re-work)=
-
-Version-controlled literate Linux system configuration using Emacs ( Org Mode ) and Stow.
-
-[[https://github.com/buttergrillcorn/dotfiles][Repository]]
-
-* Interests
+* INTERESTS
 
 + Linux & system configuration
-+ Developer tooling (Emacs, terminal workflows)
++ Developer tooling ( Emacs, terminal workflows )
 + Documentation & knowledge systems
 + Web projects and static sites
 
-* Next
+* NEXT
 
 + Cloud fundamentals
 + Infrastructure concepts
