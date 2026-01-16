@@ -29,9 +29,7 @@ VISUAL           =  Working well technically AND visually
 
 *** ⏩ NEXT
 
-Cloud fundamentals 
-
-Infrastructure concepts
-
-Automation and system reliability
++ Cloud fundamentals
++ Infrastructure concepts
++ Automation and system reliability
 
