@@ -1,13 +1,33 @@
 #+title: Hi, I'm James 👋
 
-I’m an early-career IT / junior developer candidate with a strong interest in
-Linux, documentation-driven workflows, and reliable systems.
+I build and maintain small, deliberate systems.
 
-I enjoy building and refining tools that are:
+Most of my work focuses on Linux-based workflows, documentation-driven projects,
+and tools that behave predictably and are easy to reason about.
 
-+ Clear and predictable
-+ Maintainable over time
-+ Thoughtful about usability and presentation
+* Values
+
++ Usability :: Ease of use, even for those without deep technical knowledge
++ Readability :: Human-readable code
++ Predictability :: Less surprises = less errors
++ Maintainability :: Comprehensive planning and strong foundation
++ Cohesive and visuals :: Working well technically, and visually
+
+* Projects
+
+** [[https://growing.wiki][Growing Wiki]]
+
+Wiki-style site exploring atomic documentation, inspired by Zettelkasten.
+
+[[https://github.com/buttergrillcorn/growing-wiki][Repository]]
+
+** Dotfiles
+
+=WIP (Undergoing a re-work)=
+
+Version-controlled literate Linux system configuration using Emacs ( Org Mode ) and Stow.
+
+[[https://github.com/buttergrillcorn/dotfiles][Repository]]
 
 * Interests
 
@@ -15,20 +35,8 @@ I enjoy building and refining tools that are:
 + Developer tooling (Emacs, terminal workflows)
 + Documentation & knowledge systems
 + Web projects and static sites
-+ Cloud & infrastructure (learning path)
 
-* Current Projects
-
-** Growing Wiki
-
-Wiki-style site exploring structured documentation and linking
-[[https://growing.wiki][growing.wiki]]
-
-** Dotfiles
-
-Version-controlled literate Linux and editor configuration
-
-* Currently Learning
+* Next
 
 + Cloud fundamentals
 + Infrastructure concepts
