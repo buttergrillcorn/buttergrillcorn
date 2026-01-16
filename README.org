@@ -4,29 +4,33 @@ I’m an early-career IT / junior developer candidate with a strong interest in
 Linux, documentation-driven workflows, and reliable systems.
 
 I enjoy building and refining tools that are:
-- Clear and predictable
-- Maintainable over time
-- Thoughtful about usability and presentation
+
++ Clear and predictable
++ Maintainable over time
++ Thoughtful about usability and presentation
 
 * Interests
 
-- Linux & system configuration
-- Developer tooling (Emacs, terminal workflows)
-- Documentation & knowledge systems
-- Web projects and static sites
-- Cloud & infrastructure (learning path)
++ Linux & system configuration
++ Developer tooling (Emacs, terminal workflows)
++ Documentation & knowledge systems
++ Web projects and static sites
++ Cloud & infrastructure (learning path)
 
-* Selected Projects
+* Current Projects
 
-- *Growing Wiki* – https://growing.wiki  
-  Wiki-style site exploring structured documentation and linking
+** Growing Wiki
 
-- *Dotfiles*  
-  Version-controlled Linux and editor configuration
+Wiki-style site exploring structured documentation and linking
+[[https://growing.wiki][growing.wiki]]
+
+** Dotfiles
+
+Version-controlled literate Linux and editor configuration
 
 * Currently Learning
 
-- Cloud fundamentals
-- Infrastructure concepts
-- Automation and system reliability
++ Cloud fundamentals
++ Infrastructure concepts
++ Automation and system reliability
 
