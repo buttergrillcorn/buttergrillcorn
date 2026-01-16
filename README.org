@@ -1,4 +1,4 @@
-#+title: 👋 HELLO
+#+title: 👋 INTRODUCTION
 
 I build and maintain small, deliberate systems.
 
@@ -15,19 +15,19 @@ MAINTAINABILITY  =  Comprehensive planning and strong foundation
 VISUAL           =  Working well technically AND visually
 #+END_SRC
 
-*** 📁 PROJECTS
+*** 🗂️ PROJECTS
 
 + *[[https://growing.wiki][Growing Wiki]]* ( [[https://github.com/buttergrillcorn/dotfiles][repository]] ) - Wiki-style site exploring atomic documentation, inspired by Zettelkasten.
 + =WIP(re-work)= *Dotfiles* ( [[https://github.com/buttergrillcorn/growing-wiki][repository]] ) - Version-controlled literate Linux system configuration using Emacs ( Org Mode ) and Stow. 
 
-*** ♥ INTERESTS
+*** ❤️ INTERESTS
 
 + Linux & system configuration
 + Developer tooling ( Emacs, terminal workflows )
 + Documentation & knowledge systems
 + Web projects and static sites
 
-*** 🧭 NEXT
+*** ⏩ NEXT
 
 + Cloud fundamentals
 + Infrastructure concepts
