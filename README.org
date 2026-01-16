@@ -17,11 +17,13 @@ VISUAL           =  Working well technically AND visually
 
 *** 🗂️ PROJECTS
 
-**** Growing Wiki - ( [[https://growing.wiki][website]] / [[https://github.com/buttergrillcorn/dotfiles][repository]] )
+**** Growing Wiki - [[https://growing.wiki][website]] / [[https://github.com/buttergrillcorn/dotfiles][repository]] 
   
 Wiki-style site exploring atomic documentation, inspired by Zettelkasten.
 
-**** =UNDERGOING RE-WORK= *Dotfiles* - ( [[https://github.com/buttergrillcorn/growing-wiki][repository]] )
+**** *Dotfiles* - [[https://github.com/buttergrillcorn/growing-wiki][repository]] 
+
+=UNDERGOING RE-WORK=
 
 Version-controlled literate Linux system configuration using Emacs ( Org Mode ) and Stow. 
 
