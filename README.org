@@ -1,6 +1,4 @@
-#+title: About Me
-
-* Hi, I'm James 👋
+#+title: Hi, I'm James 👋
 
 I’m an early-career IT / junior developer candidate with a strong interest in
 Linux, documentation-driven workflows, and reliable systems.
