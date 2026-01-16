@@ -17,13 +17,11 @@ I enjoy building and refining tools that are:
 - Cloud & infrastructure (learning path)
 
 * Selected Projects
-- **Ongoing Archive** – https://ongoingarchive.com  
-  Personal knowledge platform focused on clarity and maintainability
 
-- **Growing Wiki** – https://growing.wiki  
+- *Growing Wiki* – https://growing.wiki  
   Wiki-style site exploring structured documentation and linking
 
-- **Dotfiles**  
+- *Dotfiles*  
   Version-controlled Linux and editor configuration
 
 * Currently Learning
