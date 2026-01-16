@@ -1,0 +1,36 @@
+#+title: About Me
+
+* Hi, I'm James 👋
+
+I’m an early-career IT / junior developer candidate with a strong interest in
+Linux, documentation-driven workflows, and reliable systems.
+
+I enjoy building and refining tools that are:
+- Clear and predictable
+- Maintainable over time
+- Thoughtful about usability and presentation
+
+* Interests
+
+- Linux & system configuration
+- Developer tooling (Emacs, terminal workflows)
+- Documentation & knowledge systems
+- Web projects and static sites
+- Cloud & infrastructure (learning path)
+
+* Selected Projects
+- **Ongoing Archive** – https://ongoingarchive.com  
+  Personal knowledge platform focused on clarity and maintainability
+
+- **Growing Wiki** – https://growing.wiki  
+  Wiki-style site exploring structured documentation and linking
+
+- **Dotfiles**  
+  Version-controlled Linux and editor configuration
+
+* Currently Learning
+
+- Cloud fundamentals
+- Infrastructure concepts
+- Automation and system reliability
+
