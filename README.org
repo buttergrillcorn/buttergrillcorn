@@ -4,6 +4,25 @@ I build and maintain small, deliberate systems.
 
 Most of my work focuses on Linux-based workflows, documentation-driven projects,
 and tools that behave predictably and are easy to reason about.
+
+#+BEGIN_SRC text
+I build and maintain small, deliberate systems.
+
+Most of my work focuses on Linux-based workflows,
+documentation-driven projects, and tools that behave
+predictably and are easy to reason about.
+
+Principles:
+- Explicit configuration over hidden magic
+- Readability over cleverness
+- Systems that can be understood end to end
+
+Current focus:
+- growing.wiki  — a living documentation system
+- dotfiles      — a reproducible Linux workflow
+
+This repository documents how these systems evolve over time.
+#+END_SRC
   
 | Values            | Why                                                          |
 |-------------------+--------------------------------------------------------------|
