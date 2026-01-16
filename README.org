@@ -5,21 +5,15 @@ I build and maintain small, deliberate systems.
 Most of my work focuses on Linux-based workflows, documentation-driven projects,
 and tools that behave predictably and are easy to reason about.
 
+* Values
+
 #+BEGIN_SRC conf
-USABILITY         = Ease of use, without deep technical knowledge
-READABILITY       = Human-readable and documentation
-PREDICTABILITY    = Less surprises and reproducible
-MAINTAINABILITY   = Comprehensive planning and strong foundation
-COHESIVE + VISUAL = Working well technically AND visually
+USABILITY        =  Ease of use, without deep technical knowledge
+READABILITY      =  Human-readable and documentation
+PREDICTABILITY   =  Less surprises and reproducible
+MAINTAINABILITY  =  Comprehensive planning and strong foundation
+VISUAL           =  Working well technically AND visually
 #+END_SRC
-  
-| Values            | Why                                                          |
-|-------------------+--------------------------------------------------------------|
-| *Usability*         | Ease of use, even for those without deep technical knowledge |
-| *Readability*       | Human-readable code                                          |
-| *Predictability*    | Less surprises = less errors                                 |
-| *Maintainability*   | Comprehensive planning and strong foundation                 |
-| *Cohesive + Visual* | Working well technically, and visually                       |
 
 * Projects
 
