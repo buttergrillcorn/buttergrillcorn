@@ -17,11 +17,11 @@ VISUAL           =  Working well technically AND visually
 
 *** 🗂️ PROJECTS
 
-**** Growing Wiki - [[https://growing.wiki][website]] / [[https://github.com/buttergrillcorn/dotfiles][repository]] 
+**** Growing Wiki - [[https://growing.wiki][website]] / [[https://github.com/buttergrillcorn/growing-wiki][repository]] 
   
 Wiki-style site exploring atomic documentation, inspired by Zettelkasten.
 
-**** *Dotfiles* - [[https://github.com/buttergrillcorn/growing-wiki][repository]] 
+**** *Dotfiles* - [[https://github.com/buttergrillcorn/dotfiles][repository]] 
 
 =UNDERGOING RE-WORK=
 
